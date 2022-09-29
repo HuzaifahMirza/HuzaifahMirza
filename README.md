@@ -7,7 +7,7 @@ male
 Montreal, Canada
 Skills: [java, html, css, javascript, python, kotlin (android development)]
 
-public class readMe {
+public class readMe { 
 
 	public static void main(String[] args) {
 		aboutMe huzaifah = new aboutMe();
