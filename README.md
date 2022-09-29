@@ -2,9 +2,9 @@
 
 aboutMe 
 --------------
-Huzaifah Mirza
-male
-Montreal, Canada
+Huzaifah Mirza,
+male,
+Montreal, Canada,
 Skills: [java, html, css, javascript, python, kotlin (android development)]
 
 public class readMe { 
